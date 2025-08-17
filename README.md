@@ -1,5 +1,5 @@
 README - Book_A_Taxi
-Book_A_Taxi 🚕
+Book_A_Taxi
 
 Project Overview
 This project is a simple, responsive React-based front-end application called Book_A_Taxi, developed using Generative AI prompts. It allows users to view a homepage, navigate to informational pages (About, Services, Contact), and book a taxi through a dedicated booking form. The form includes basic validation, and all components/pages are linked using `react-router-dom`.
